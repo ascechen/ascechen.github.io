@@ -1,8 +1,10 @@
-<!---
+B<!---
 ## Welcome to My Pages
 [Biogrpahy](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md) | [Personal Stuff](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md)
 --->
-[My CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli201804.pdf)
+### Information 
+Chen Li is a first year Ph.D. student in Institue of Operations Research and Analytics at National University of Singapore. Here is 
+[My CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli201804.pdf). 
 
 
 ### Education
@@ -10,7 +12,7 @@
 Science and Technology of China. 
   - Thesis advisors: [Dr. Juyong Zhang](http://staff.ustc.edu.cn/~juyong/)
 - June 2017 - Present Ph.D. student in **Operations Research and Analytics**, National University of
-Singapore, .
+Singapore
 
 
 ### Research Interests
@@ -18,6 +20,9 @@ Singapore, .
 * Large Scale Optimization Algorithm in Machine Learning
 * Optimization under Uncertainty
 * Online and Reinforcement Learning
+
+### Computer Skills 
+* C/C++, Matlab, Python, R, Latex
 
 
 ### Coursework
@@ -29,7 +34,7 @@ Singapore, .
 - IE6001 Foundations of Optimization
 - IE6511 Surrogate and Metaheuristic Global Optimization
 
-#### Mathematical Foundations
+#### Mathematical Foundations(Undergraduate)
 - Mathematical Analysis
 - Linear Algebra
 - Real Analysis
@@ -40,8 +45,6 @@ Singapore, .
 - Differential Geometry
 - Topology
 - Prbability Theory
-
-#### Applied Mathematics
 - Mathematical Statistics
 - Applied Stochastic Processes
 - Mathematical Modeling
@@ -50,6 +53,8 @@ Singapore, .
 - Operations Research(Numerical Optimization)
 - [Foundation of Algorithm](http://staff.ustc.edu.cn/~juyong/teaching.html)
 - [Combinatorics](http://staff.ustc.edu.cn/~jiema/Comb2016/)
+- Modern Algebra
+- Modules and Commutative Algebra
 
 
 
