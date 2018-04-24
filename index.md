@@ -21,7 +21,39 @@ Singapore, .
 
 
 ### Coursework
-Single Variable 
+#### Ph.D. Modules
+> BDC6112 Stochastics Processes I 
+> BDC6307 Introduction to Data Analytics
+> MA5248 Stochastic Analysis in Mathematical Finance
+> BDC6113 Inventory Management 
+> IE6001 Foundations of Optimization
+> IE6511 Surrogate and Metaheuristic Global Optimization
+
+#### Mathematical Foundations
+> Mathematical Analysis
+> Linear Algebra
+> Real Analysis
+> Complex Analysis
+> [Functional Analysis](http://staff.ustc.edu.cn/~wangzuoq/Courses/15F-FA/index.html)
+> Differential Equations
+> Complex Analysis
+> Differential Geometry
+> Topology
+> Prbability Theory
+
+#### Applied and Computational Mathematics
+> Mathematical Statistics
+> Applied Stochastic Processes
+> Mathematical Modeling
+> Numerical Algebra
+> Numerical Analysis
+> Operations Research(Numerical Optimization)
+> [Foundation of Algorithm](http://staff.ustc.edu.cn/~juyong/teaching.html)
+> [Combinatorics](http://staff.ustc.edu.cn/~jiema/Comb2016/)
+
+
+
+
 
 
 
