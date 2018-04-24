@@ -8,7 +8,7 @@
 ### Education
 - August 2013 - June 2017 BSc in **Computational Mathematics**, *Honors in Mathematics*, University of
 Science and Technology of China. 
-  - Thesis advisors: Dr. Juyong Zhang
+  - Thesis advisors: [Dr. Juyong Zhang](http://staff.ustc.edu.cn/~juyong/)
 - June 2017 - Present Ph.D. student in **Operations Research and Analytics**, National University of
 Singapore, .
 
@@ -21,6 +21,7 @@ Singapore, .
 
 
 ### Coursework
+Single Variable 
 
 
 
