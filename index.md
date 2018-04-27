@@ -1,8 +1,4 @@
 
-
-<a href="https://github.com/ascechen/ascechen.github.io/blob/master/classification.md">
-       Research
-</a>
 <!---
 ## Welcome to My Pages
 [Biogrpahy](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md) | [Personal Stuff](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md)
@@ -70,6 +66,12 @@ Singapore
 - [Combinatorics](http://staff.ustc.edu.cn/~jiema/Comb2016/)
 - Modern Algebra
 - Modules and Commutative Algebra
+
+<div class="materials-item">
+      <a href="classification/">
+        Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits
+      </a>
+</div>
 
 
 
