@@ -7,8 +7,6 @@
 - [Information](#infor)
 - [Education](#edu)
 - [CourseWork](#course)
-  - [Ph.D. Modules](#phdcourse)
-  - [Undergraduate Courses](#ustccourse)
 
 <a name='infor'></a>
 ### Information 
@@ -38,7 +36,7 @@ Singapore
 
 <a name='course'></a>
 ### Coursework
-<a name='phdcourse'></a>
+
 #### Ph.D. Modules
 - BDC6112 Stochastic Processes I 
 - BDC6307 Introduction to Data Analytics
@@ -47,7 +45,6 @@ Singapore
 - IE6001 Foundations of Optimization
 - IE6511 Surrogate and Metaheuristic Global Optimization
 
-<a name='ustccourse'></a>
 #### Mathematical Foundations(Undergraduate)
 - Mathematical Analysis
 - Linear Algebra
