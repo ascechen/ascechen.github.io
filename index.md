@@ -1,6 +1,6 @@
 
 
-<a href="<a href="http://cs231n.stanford.edu/">">
+<a href="http://cs231n.stanford.edu/">">
        Research
 </a>
 <!---
