@@ -17,8 +17,7 @@ Chen Li is a first year Ph.D. student in [Institue of Operations Research and An
 
 
 <a name='edu'></a>
-### Education
-- August 2013 - June 2017 BSc in **Computational Mathematics**, *Honors in Mathematics*, University of
+### Educatio- August 2013 - June 2017 BSc in **Computational Mathematics**, *Honors in Mathematics*, University of
 Science and Technology of China. 
   - Thesis advisors: [Dr. Juyong Zhang](http://staff.ustc.edu.cn/~juyong/)
 - June 2017 - Present Ph.D. student in **Operations Research and Analytics**, National University of
@@ -66,12 +65,12 @@ Singapore
 - [Combinatorics](http://staff.ustc.edu.cn/~jiema/Comb2016/)
 - Modern Algebra
 - Modules and Commutative Algebra
-
+<!---
 <div class="materials-item">
       <a href="classification/">
         Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits
       </a>
 </div>
-
+--->
 
 
