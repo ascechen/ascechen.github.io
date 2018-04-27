@@ -3,7 +3,7 @@
 [Biogrpahy](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md) | [Personal Stuff](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md)
 --->
 ### Information 
-Chen Li is a first year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in the interplay between Operations Research and Machine Learning, especially **Data Driven Optimization**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli201804.pdf). 
+Chen Li is a first year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in the interplay between Operations Research and Machine Learning, especially **Data Driven Optimization**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1804.pdf). 
 
 - Address: Room 03-30, Biz-2 Building, National University of Singapore, 117592 Singapore
 - Contact: chen_l@u.nus.edu
