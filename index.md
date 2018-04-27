@@ -1,7 +1,7 @@
 
 
-<a href="classification/">
-        Image Classification: Data-driven Approach, k-Nearest Neighbor, train/val/test splits
+<a href="<a href="http://cs231n.stanford.edu/">">
+       Research
 </a>
 <!---
 ## Welcome to My Pages
