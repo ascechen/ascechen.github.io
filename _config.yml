@@ -1,2 +1,17 @@
-theme: jekyll-theme-cayman
+# Site settings
 title: Welcome to Chen Li's Homepage!
+email: e0210500@u.nus.edu
+description: "Chen Li's Homepage"
+baseurl: ""
+url: "https://ascechen.github.io/"
+
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+highlighter: rouge
+kramdown:
+  input: GFM
+  auto_ids: true
+  syntax_highlighter: rouge
