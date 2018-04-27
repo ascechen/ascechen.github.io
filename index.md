@@ -1,7 +1,16 @@
+
 <!---
 ## Welcome to My Pages
 [Biogrpahy](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md) | [Personal Stuff](https://github.com/ascechen/ascechen.github.io/edit/master/Personal.md)
 --->
+
+- [Information](#infor)
+- [Education](#edu)
+- [CourseWork](#course)
+  - [Ph.D. Modules](#phdcourse)
+  - [Undergraduate Courses](#ustccourse)
+
+<a name='infor'></a>
 ### Information 
 Chen Li is a first year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in the interplay between Operations Research and Machine Learning, especially **Data Driven Optimization**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1804.pdf). 
 
@@ -9,7 +18,7 @@ Chen Li is a first year Ph.D. student in [Institue of Operations Research and An
 - Contact: chen_l@u.nus.edu
 
 
-
+<a name='edu'></a>
 ### Education
 - August 2013 - June 2017 BSc in **Computational Mathematics**, *Honors in Mathematics*, University of
 Science and Technology of China. 
@@ -27,8 +36,9 @@ Singapore
 ### Computer Skills 
 * C/C++, Matlab, Python, R, Latex
 
-
+<a name='course'></a>
 ### Coursework
+<a name='phdcourse'></a>
 #### Ph.D. Modules
 - BDC6112 Stochastic Processes I 
 - BDC6307 Introduction to Data Analytics
@@ -37,6 +47,7 @@ Singapore
 - IE6001 Foundations of Optimization
 - IE6511 Surrogate and Metaheuristic Global Optimization
 
+<a name='ustccourse'></a>
 #### Mathematical Foundations(Undergraduate)
 - Mathematical Analysis
 - Linear Algebra
