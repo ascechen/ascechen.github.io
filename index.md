@@ -69,7 +69,7 @@ Singapore
 - Modules and Commutative Algebra
 
  <div class="materials-item">
-      <a href="personal/">
+      <a href="Personal/">
         Python / Numpy Tutorial
       </a>
  </div>
