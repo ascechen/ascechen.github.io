@@ -68,9 +68,4 @@ Singapore
 - Modern Algebra
 - Modules and Commutative Algebra
 
- <div class="materials-item">
-      <a href="Personal/">
-        Python / Numpy Tutorial
-      </a>
- </div>
 
