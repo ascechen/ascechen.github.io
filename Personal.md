@@ -1,3 +1,8 @@
+---
+layout: page
+permalink: /personal/
+---
+
 
 ### Personal Stuff
 
@@ -9,3 +14,16 @@
   </div>
   <div style="clear:both;"></div>
 </div>
+
+lasfdlasjfda
+
+
+<div class="fig figcenter fighighlight">
+  <img src="/picture/me.jpg">
+  <img src="/picture/me.jpg">
+  <img src="/picture/me.jpg">
+  <div class="figcaption">
+    Loss function landscape for the Multiclass SVM (without regularization) for one single example (left,middle) and for a hundred examples (right) in CIFAR-10. Left: one-dimensional loss by only varying <b>a</b>. Middle, Right: two-dimensional loss slice, Blue = low loss, Red = high loss. Notice the piecewise-linear structure of the loss function. The losses for multiple examples are combined with average, so the bowl shape on the right is the average of many piece-wise linear bowls (such as the one in the middle).
+  </div>
+</div>
+
