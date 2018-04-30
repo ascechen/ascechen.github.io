@@ -3,6 +3,8 @@ layout: page
 permalink: /personal/
 ---
 
+[homepage](https://ascechen.github.io/) | [homepage](https://ascechen.github.io/) | [homepage](https://ascechen.github.io/)
+
 
 ### Personal Stuff
 
