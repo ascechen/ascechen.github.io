@@ -53,7 +53,6 @@ Singapore
 - Complex Analysis
 - [Functional Analysis](http://staff.ustc.edu.cn/~wangzuoq/Courses/15F-FA/index.html)
 - Differential Equations
-- Complex Analysis
 - Differential Geometry
 - Topology
 - Prbability Theory
