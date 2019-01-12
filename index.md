@@ -9,6 +9,8 @@
 - [Research](#res)
 - [CourseWork](#course)
 
+[aaa](https://github.com/ascechen/ascechen.github.io/blob/master/Personal.md)
+
 <a name='infor'></a>
 ### Information 
 Chen Li is a second year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in the interplay between Operations Research and Machine Learning, especially **Data Driven Optimization**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1804.pdf). 
