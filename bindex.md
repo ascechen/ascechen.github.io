@@ -37,7 +37,7 @@ Singapore
 * MA3252: Linear and Network Optimization (Spring 2019, Tutor)
 
 <a name='course'></a>
-### <a href= "coursework/">Coursework
+### <a href= ../coursework/">Coursework
 
 
 
