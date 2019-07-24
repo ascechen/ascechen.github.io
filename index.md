@@ -7,11 +7,12 @@
 - [Information](#infor)
 - [Education](#edu)
 - [Research](#res)
+- [Teaching](#teach)
 - [CourseWork](#course)
 
 <a name='infor'></a>
 ### Information 
-Chen Li is a second year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in the interplay between Operations Research and Machine Learning, especially **Data Driven Optimization**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1901.pdf). 
+Chen Li is a second year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in **large-scale optimization algorithm** and **decision making under uncertainty**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1901.pdf). 
 
 - Address: Room 04-01, Innovation 4.0, 3 Research Link, National University of Singapore, 117602 Singapore
 - Contact: chen_l@u.nus.edu
@@ -21,18 +22,19 @@ Chen Li is a second year Ph.D. student in [Institue of Operations Research and A
 ### Education
 - August 2013 - June 2017 BSc in **Computational Mathematics**, *Honors in Mathematics*, University of
 Science and Technology of China. 
-  - Thesis advisors: [Dr. Juyong Zhang](http://staff.ustc.edu.cn/~juyong/)
-- June 2017 - Present Ph.D. student in **Operations Research and Analytics**, National University of
+- August 2017 - Present Ph.D. student in **Operations Research and Analytics**, National University of
 Singapore
 
 <a name='res'></a>
-### Research Interests
+### Research Projects
 
-* Large Scale Optimization Algorithm in Machine Learning
-* Optimization under Uncertainty
+* Managing an electric vehicle charging station
+* Solving semidefinite programming problems to high accuracy
 
-### Computer Skills 
-* C/C++, Matlab, Python, R, Latex
+<a name= 'teach'></a>
+### Teaching Experience
+* DBA3701: Introduction to Optimisation (Fall 2018, TA)
+* MA3252: Linear and Network Optimization (Spring 2019, Tutor)
 
 <a name='course'></a>
 ### Coursework
@@ -44,6 +46,12 @@ Singapore
 - BDC6113 Inventory Management 
 - IE6001 Foundations of Optimization
 - IE6511 Surrogate and Metaheuristic Global Optimization
+- BDC6302 Discrete Optimization and Algorithms
+- IE6509 Theory and Algorithms for Dynamic Programming 
+- ST5222 Advanced Topics in Applied Statistics 
+- BDC6304 Robust Modeling and Optimization
+- ST5241 Concentration Inequalities and Emprical Process Methods for High-Dimension Statistics
+
 
 #### Mathematical Foundations(Undergraduate)
 - Mathematical Analysis
