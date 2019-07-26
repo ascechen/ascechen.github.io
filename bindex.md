@@ -37,7 +37,19 @@ Singapore
 * MA3252: Linear and Network Optimization (Spring 2019, Tutor)
 
 <a name='course'></a>
-### <a href= /coursework/">Coursework
+### Coursework
+
+- BDC6112 Stochastic Processes I 
+- BDC6307 Introduction to Data Analytics
+- MA5248 Stochastic Analysis in Mathematical Finance
+- BDC6113 Inventory Management 
+- IE6001 Foundations of Optimization
+- IE6511 Surrogate and Metaheuristic Global Optimization
+- BDC6302 Discrete Optimization and Algorithms
+- IE6509 Theory and Algorithms for Dynamic Programming 
+- ST5222 Advanced Topics in Applied Statistics 
+- BDC6304 Robust Modeling and Optimization
+- ST5241 Concentration Inequalities and Emprical Process Methods for High-Dimension Statistics
 
 
 
