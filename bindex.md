@@ -12,7 +12,7 @@
 
 <a name='infor'></a>
 ### Information 
-Chen Li is a second year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in **large-scale optimization algorithm** and **decision making under uncertainty**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1901.pdf). 
+Chen Li is a second year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in **decision making under uncertainty** and **large-scale optimization algorithm**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1901.pdf). 
 
 - Address: Room 04-01, Innovation 4.0, 3 Research Link, National University of Singapore, 117602 Singapore
 - Contact: chen_l@u.nus.edu
@@ -49,7 +49,7 @@ Singapore
 - IE6509 Theory and Algorithms for Dynamic Programming 
 - ST5222 Advanced Topics in Applied Statistics 
 - BDC6304 Robust Modeling and Optimization
-- ST5241 Concentration Inequalities and Emprical Process Methods for High-Dimension Statistics
+- ST5241 Concentration Inequalities and Emprical Process Methods for High-Dimensional Statistics
 
 
 
