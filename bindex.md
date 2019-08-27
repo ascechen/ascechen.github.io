@@ -12,7 +12,7 @@
 
 <a name='infor'></a>
 ### Information 
-Chen Li is a second year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in **decision making under uncertainty** and **large-scale optimization algorithm**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/chenli1901.pdf). 
+Chen Li is a second year Ph.D. student in [Institue of Operations Research and Analytics](http://iora.nus.edu.sg/) at National University of Singapore. Before that, he got Bachelor degree of Science from [University of Science and Technonlogy of China](http://en.ustc.edu.cn/). He is interested in **decision making under uncertainty** and **large-scale optimization algorithm**. Here is his [CV](https://github.com/ascechen/ascechen.github.io/raw/master/myCV(1).pdf). 
 
 - Address: Room 04-01, Innovation 4.0, 3 Research Link, National University of Singapore, 117602 Singapore
 - Contact: chen_l@u.nus.edu
