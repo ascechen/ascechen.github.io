@@ -49,7 +49,8 @@ Singapore
 - IE6509 Theory and Algorithms for Dynamic Programming 
 - ST5222 Advanced Topics in Applied Statistics 
 - BDC6304 Robust Modeling and Optimization
-- ST5241 Concentration Inequalities and Emprical Process Methods for High-Dimensional Statistics
+- ST5241 Concentration Inequalities and Empirical Process Methods for High-Dimensional Statistics
+- ST5214 Advanced Probability Theory
 
 
 
