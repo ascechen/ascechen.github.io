@@ -28,8 +28,8 @@ Singapore
 <a name='res'></a>
 ### Research Projects
 
-* Managing electric vehicle charging
-* Solving semidefinite programming problems to high accuracy
+* An Exponential Cone Programming Approach for Managing Electric Vehicle Charging
+* Solving Semidefinite Programming Problems to High Accuracy
 
 <a name= 'teach'></a>
 ### Teaching Experience
